@@ -32,10 +32,10 @@ The rules used by the the algorithm for scoring a board position are very simple
 
 * Achieving checkmate scores infinity.
 * Being checkmated scores minus infinity.
-* Add up the scores from all pieces remaining on the board, positive for your own pieces, negative for your opponents: Queen 9, Rook 5, Bishop and Knight 3, Pawn 1.
+* Add up the scores from all pieces remaining on the board, positive for your own pieces, negative for your opponent's: Queen 9, Rook 5, Bishop and Knight 3, Pawn 1.
 * A small score for moving pieces towards the centre of the board.
 
-The chess engine doesn't know anything about standard openings, and it only looks ahead around 3 moves In other words, you should be able beat it!
+The chess engine doesn't know anything about standard openings, and it only looks ahead around 3 moves. In other words, you should be able beat it!
 
 ## Minecraft Pi Edition Integration
 
