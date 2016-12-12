@@ -43,3 +43,10 @@ This was provided by the following library:
 https://github.com/martinohanlon/mcpi
 
 Thanks to the author!
+
+## Video
+
+Here's some shaky-cam footage of the game that I recorded shortly after writing the code, featuring my dulcet tones.
+
+[![Video](https://i.ytimg.com/vi/d1OafP67Z2s/hqdefault.jpg)](https://www.youtube.com/watch?v=d1OafP67Z2s)
+
